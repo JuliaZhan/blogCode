@@ -4,12 +4,15 @@ title = "About"
 hidden = true
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.
+### 联系方式
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Email：771450210@qq.com
 
-***
 
-### Lorem ipsum dolor.
+### 个人信息
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.
+Julia/女/1992  
+技术博客： https://blog.juliazhan.xyz/  
+GitHub: https://github.com/JuliaZhan  
+职业：.net开发  
+城市：杭州  
